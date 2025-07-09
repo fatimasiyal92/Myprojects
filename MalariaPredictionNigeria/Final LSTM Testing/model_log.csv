@@ -1,0 +1,2 @@
+,country,epochs,accuracy(%),root_mean_sqr_err,lstm_units,lstm_layers
+0,Nigeria,500,0.6493506493506493,0.019564443123198494,100,4
